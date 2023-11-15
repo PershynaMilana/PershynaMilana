@@ -24,7 +24,7 @@
 
 ### My Stats :
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PershynaMilana&theme=dark&card_width=200&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PershynaMilana&theme=dark&card_width=300&hide_longest_streak=true" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PershynaMilana&layout=compact&langs_count=8&card_width=320&theme=dark&background=000000" />
