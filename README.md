@@ -29,12 +29,6 @@
 
 ### My Stats :
 
-<div>
-  <tr>
-    <td colspan="2" align="center">
-      <div open><h4>Full year calendar</h4><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></div>
-</div>
-
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PershynaMilana&theme=github-dark-blue&border_radius=5&hide_border=false&hide_current_streak=true&hide_longest_streak=true&card_width=683" alt="GitHub Streak" />
 </a>
