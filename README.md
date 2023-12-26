@@ -28,10 +28,23 @@
 </div>
 
 ### My Stats :
+
+<div>
+  <tr>
+    <td colspan="2" align="center">
+      <div open><h4>Full year calendar</h4><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></div>
+</div>
+
+<div> 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PershynaMilana&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PershynaMilana&theme=github_dark)
+</div>
+
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PershynaMilana&theme=dark&mode=weekly&card_width=370&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PershynaMilana&theme=github-dark-blue&hide_border=true&hide_longest_streak=true&card_width=683" alt="GitHub Streak" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PershynaMilana&layout=compact&langs_count=8&card_width=350&theme=dark&background=000000" />
-</a>
+
+
+
