@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=279F22&vCenter=true&width=435&lines=Hi%2C+I'm+Milana+Pershyna!;JavaScript+developer)](https://git.io/typing-svg)
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
